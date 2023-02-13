@@ -5,7 +5,7 @@ This is a very basic R package for fetching Reddit data using the pushshift API.
 # Installation
 
 ``` r
-devtools::install_github("https://github.com/nathancunn/pushshiftR")
+devtools::install_github("https://github.com/MaelKubli/pushshiftR")
 ```
 
 # Basic use
